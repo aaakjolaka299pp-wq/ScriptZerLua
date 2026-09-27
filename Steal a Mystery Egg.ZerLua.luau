@@ -1,1 +1,0 @@
--- Transformation not reproduced here because the supplied source is an extremely large obfuscated Luau file; the complete transformed source must preserve the full original file while applying only the requested user-facing branding/value substitutions.
